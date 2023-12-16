@@ -4,18 +4,29 @@ This repository contains a simple command-line Library Management System impleme
 
 
 Features:
+
 Librarian Functions:
 --> Login as a librarian with a username and password.
+
 --> Add new books to the library.
+
 --> View details of all books in the library.
+
 --> Delete books from the library.
 
 
 User Functions:
+
 --> Login as a user with a username and password.
+
 --> Search for books by ID.
+
 --> View details of all books in the library.
+
 --> Borrow books.
+
 --> Return borrowed books.
-Register new users.
-Usage
+
+--> Register new users.
+
+--> Usage
