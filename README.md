@@ -5,8 +5,6 @@ This repository contains a simple command-line Library Management System impleme
 
 Features:
 
-
-
 Librarian Functions:
 
 --> Login as a librarian with a username and password.
