@@ -1,6 +1,6 @@
 # Library Management System
 
-This repository contains a simple command-line Library Management System implemented in C. The system allows librarians and users to perform various tasks such as adding, viewing, and deleting books, as well as borrowing and returning books.
+**This repository contains a simple command-line Library Management System implemented in C. The system allows librarians and users to perform various tasks such as adding, viewing, and deleting books, as well as borrowing and returning books.**
 
 
 **Librarian Functionality:**
