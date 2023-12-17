@@ -37,14 +37,3 @@ This repository contains a simple command-line Library Management System impleme
 **Feel free to contribute to this project by adding new features, improving the code, or fixing bugs. Pull requests are welcome!**
 
 **For any questions or suggestions, please open an issue in this repository.**
-
-I hope this readme section provides a clear and concise overview of your library management system project for your Github repository.
-
-
---> Borrow books.
-
---> Return borrowed books.
-
---> Register new users.
-
---> Usage
